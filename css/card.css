@@ -1,0 +1,159 @@
+/* ==========================================================================
+   Card Grid & Card Component
+   ========================================================================== */
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-3);
+}
+
+/* --- Card --- */
+.card {
+  background: var(--color-card-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: var(--space-3);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.card__name {
+  font-size: var(--font-size-title);
+  font-weight: 600;
+  color: var(--color-text);
+  line-height: 1.3;
+}
+
+.card__location {
+  font-size: var(--font-size-small);
+  color: var(--color-text-light);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.card__rating {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: var(--font-size-small);
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.card__rating-stars {
+  color: #d4a853;
+  letter-spacing: 1px;
+}
+
+.card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.card__tag {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 12px;
+  color: var(--color-text-light);
+  background: var(--color-bg);
+  border-radius: 3px;
+  line-height: 1.4;
+}
+
+.card__notes {
+  font-size: var(--font-size-body);
+  color: var(--color-text);
+  line-height: 1.5;
+  margin-top: 4px;
+}
+
+.card__actions {
+  display: flex;
+  gap: var(--space-2);
+  margin-top: auto;
+  padding-top: var(--space-2);
+}
+
+.card__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 14px;
+  font-size: var(--font-size-small);
+  font-family: var(--font-sans);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  background: var(--color-card-bg);
+  color: var(--color-text);
+  cursor: pointer;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+
+.card__btn:hover {
+  background: var(--color-sidebar-hover);
+  text-decoration: none;
+}
+
+/* Hide card when filtered out */
+.card--hidden {
+  display: none;
+}
+
+/* --- Home Page: Category Grid --- */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--space-3);
+  margin-top: var(--space-3);
+}
+
+.category-tile {
+  display: block;
+  background: var(--color-card-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: var(--space-4);
+  text-decoration: none;
+  color: var(--color-text);
+  transition: border-color 0.15s;
+}
+
+.category-tile:hover {
+  border-color: var(--color-accent);
+  text-decoration: none;
+}
+
+.category-tile__icon {
+  font-size: 32px;
+  margin-bottom: var(--space-2);
+}
+
+.category-tile__name {
+  font-size: var(--font-size-title);
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.category-tile__desc {
+  font-size: var(--font-size-small);
+  color: var(--color-text-light);
+  line-height: 1.4;
+}
+
+/* --- Responsive: Card Grid --- */
+@media (max-width: 1023px) {
+  .card-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 767px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}

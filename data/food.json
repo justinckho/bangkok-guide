@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bangkok-food-1",
+    "name": "Jay Fai",
+    "category": "food",
+    "location": "Samran Rat, Phra Nakhon",
+    "tags": ["街头", "米其林", "蟹肉蛋卷"],
+    "rating": 4.5,
+    "notes": "曼谷唯一保有米其林星的街头小吃，蟹肉蛋卷是必点，排队需2-3小时。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Jay+Fai+Bangkok",
+      "phone": "+6622239384"
+    }
+  },
+  {
+    "id": "bangkok-food-2",
+    "name": "Thip Samai Pad Thai",
+    "category": "food",
+    "location": "Phra Nakhon",
+    "tags": ["泰式炒面", "老字号", "夜市"],
+    "rating": 4.3,
+    "notes": "曼谷排名第一的Pad Thai，炭火炒面锅气十足，橙汁虾仁是招牌。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Thip+Samai+Bangkok",
+      "phone": "+6622262323"
+    }
+  },
+  {
+    "id": "bangkok-food-3",
+    "name": "Sorn",
+    "category": "food",
+    "location": "Khlong Tan Nuea, Watthana",
+    "tags": ["fine dining", "米其林二星", "南部泰餐"],
+    "rating": 5.0,
+    "notes": "亚洲最佳50餐厅之一，南部泰菜天花板。需提前数月预订， tasting menu约4000泰铢。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Sorn+Bangkok",
+      "phone": "+6621285088"
+    }
+  },
+  {
+    "id": "bangkok-food-4",
+    "name": "Yaowarat Road (唐人街)",
+    "category": "food",
+    "location": "Yaowarat, Samphanthawong",
+    "tags": ["夜市", "街头小吃", "海鲜"],
+    "rating": 4.6,
+    "notes": "晚上7点后整条街变成露天美食广场，烤海鲜、芒果糯米饭、鱼翅羹应有尽有。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Yaowarat+Road+Bangkok"
+    }
+  }
+]

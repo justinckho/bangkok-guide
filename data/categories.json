@@ -1,0 +1,44 @@
+[
+  {
+    "id": "food",
+    "label": "美食",
+    "icon": "🍜",
+    "description": "记录曼谷值得再去的餐厅与街头味道"
+  },
+  {
+    "id": "shopping",
+    "label": "购物",
+    "icon": "🛍",
+    "description": "商场、市集与特色买手店"
+  },
+  {
+    "id": "hotels",
+    "label": "酒店",
+    "icon": "🏨",
+    "description": "住过的酒店与住宿体验评价"
+  },
+  {
+    "id": "transport",
+    "label": "交通",
+    "icon": "🚇",
+    "description": "BTS、MRT、打车、机场往返"
+  },
+  {
+    "id": "attractions",
+    "label": "景点",
+    "icon": "🏛",
+    "description": "寺庙、博物馆、公园与观景台"
+  },
+  {
+    "id": "cafes",
+    "label": "咖啡馆",
+    "icon": "☕",
+    "description": "适合办公、拍照或品尝特色饮品的好去处"
+  },
+  {
+    "id": "massage",
+    "label": "按摩",
+    "icon": "💆",
+    "description": "按摩与SPA店名、价格段与环境"
+  }
+]

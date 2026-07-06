@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bangkok-att-1",
+    "name": "Wat Phra Kaew (玉佛寺) & Grand Palace",
+    "category": "attractions",
+    "location": "Phra Borom Maha Ratchawang, Phra Nakhon",
+    "tags": ["寺庙", "必去", "历史"],
+    "rating": 4.7,
+    "notes": "曼谷最神圣的寺庙，玉佛由整块翡翠雕刻而成。与大皇宫相连，门票500泰铢。建议早上去避免旅行团高峰。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Grand+Palace+Bangkok",
+      "phone": "+6626235500"
+    }
+  },
+  {
+    "id": "bangkok-att-2",
+    "name": "Wat Arun (郑王庙)",
+    "category": "attractions",
+    "location": "Wat Arun, Bangkok Yai",
+    "tags": ["寺庙", "河畔", "日落"],
+    "rating": 4.6,
+    "notes": "湄南河畔的黎明寺，标志性高棉风格佛塔。傍晚时分光线最美，可以从对岸坐渡轮过去，仅需4泰铢。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Wat+Arun+Bangkok"
+    }
+  },
+  {
+    "id": "bangkok-att-3",
+    "name": "King Power Mahanakhon Skywalk",
+    "category": "attractions",
+    "location": "Thung Maha Mek, Sathon",
+    "tags": ["观景台", "玻璃栈道", "高空酒吧"],
+    "rating": 4.4,
+    "notes": "314米高空玻璃栈道，曼谷最高观景台。日落时段去可以同时看到白天和夜景，门票约880泰铢。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=King+Power+Mahanakhon+Bangkok",
+      "phone": "+6626778721"
+    }
+  },
+  {
+    "id": "bangkok-att-4",
+    "name": "Jim Thompson House Museum",
+    "category": "attractions",
+    "location": "Pathum Wan",
+    "tags": ["博物馆", "泰式建筑", "丝绸"],
+    "rating": 4.3,
+    "notes": "美国丝绸商人Jim Thompson的泰式柚木宅邸，现在为博物馆。庭院很美，导览讲解很有趣，门票200泰铢。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Jim+Thompson+House+Bangkok",
+      "phone": "+6627622000"
+    }
+  }
+]

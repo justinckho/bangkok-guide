@@ -1,0 +1,40 @@
+[
+  {
+    "id": "bangkok-shop-1",
+    "name": "ICONSIAM",
+    "category": "shopping",
+    "location": "Khlong Ton Sai, Khlong San",
+    "tags": ["高端商场", "河畔", "室内水上市场"],
+    "rating": 4.4,
+    "notes": "湄南河畔巨型商场，一楼室内水上市场很有特色，奢侈品到本地品牌全覆盖。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=ICONSIAM+Bangkok",
+      "phone": "+6622888888"
+    }
+  },
+  {
+    "id": "bangkok-shop-2",
+    "name": "Chatuchak Weekend Market",
+    "category": "shopping",
+    "location": "Kamphaeng Phet Road, Chatuchak",
+    "tags": ["市集", "周末", "二手", "手工艺品"],
+    "rating": 4.3,
+    "notes": "世界最大周末市场之一，超过8000个摊位。衣服、家具、植物、宠物、古董应有尽有。建议早上去避暑。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Chatuchak+Market+Bangkok"
+    }
+  },
+  {
+    "id": "bangkok-shop-3",
+    "name": "Siam Paragon",
+    "category": "shopping",
+    "location": "Pathum Wan",
+    "tags": ["高端商场", "暹罗区", "海鲜广场"],
+    "rating": 4.2,
+    "notes": "暹罗商圈旗舰商场，G层美食广场品质很高，底层还有SEA LIFE海洋馆。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Siam+Paragon+Bangkok",
+      "phone": "+6626901000"
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "bangkok-cafe-1",
+    "name": "Rocket Coffee Bar (Sathorn)",
+    "category": "cafes",
+    "location": "Sathon",
+    "tags": ["适合办公", "精品咖啡", "北欧风"],
+    "rating": 4.2,
+    "notes": "北欧极简风格，空间宽敞，插座充足。Cold brew和brunch都很不错，适合午后办公。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Rocket+Coffee+Bar+Sathorn+Bangkok"
+    }
+  },
+  {
+    "id": "bangkok-cafe-2",
+    "name": "Featherstone Bistro",
+    "category": "cafes",
+    "location": "Ekkamai",
+    "tags": ["拍照", "复古", "特调饮品"],
+    "rating": 4.3,
+    "notes": "复古魔法风格，每个角落都适合拍照。招牌sparkling饮品颜值极高，还有水晶球占卜周边小店。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Featherstone+Bistro+Bangkok",
+      "phone": "+6621692813"
+    }
+  },
+  {
+    "id": "bangkok-cafe-3",
+    "name": "Factory Coffee",
+    "category": "cafes",
+    "location": "Phayathai",
+    "tags": ["精品咖啡", "工业风", "BTS旁"],
+    "rating": 4.6,
+    "notes": "曼谷精品咖啡天花板，Phayathai BTS站旁。Supreme咖啡师冠军坐镇，White Cold Brew是招牌。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Factory+Coffee+Bangkok",
+      "phone": "+6626656354"
+    }
+  }
+]

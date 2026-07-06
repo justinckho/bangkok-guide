@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bangkok-transport-1",
+    "name": "BTS Skytrain (轻轨)",
+    "category": "transport",
+    "location": "覆盖 Sukhumvit、Silom、Sathorn 主要线路",
+    "tags": ["轻轨", "高效", "有空调"],
+    "rating": 4.3,
+    "notes": "曼谷最靠谱的交通工具，避开地面堵车。两条主要线路（Sukhumvit Line + Silom Line），站点覆盖大部分旅游区和商圈。单程17-62泰铢，推荐办Rabbit Card。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=BTS+Skytrain+Bangkok"
+    }
+  },
+  {
+    "id": "bangkok-transport-2",
+    "name": "MRT (地铁)",
+    "category": "transport",
+    "location": "覆盖唐人街、大皇宫、火车夜市等区域",
+    "tags": ["地铁", "新线路", "干净"],
+    "rating": 4.2,
+    "notes": "蓝线覆盖老城区和旅游景点，新开通的紫线和红线延伸至郊区。站内干净有空调，单程17-44泰铢。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=MRT+Bangkok"
+    }
+  },
+  {
+    "id": "bangkok-transport-3",
+    "name": "Grab / Bolt (打车)",
+    "category": "transport",
+    "location": "全曼谷",
+    "tags": ["网约车", "方便", "需避高峰"],
+    "rating": 3.8,
+    "notes": "东南亚版滴滴，Grab覆盖最全但价格较高，Bolt相对便宜。高峰期溢价严重且堵车时不如BTS快。机场到市区约350-500泰铢。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Bangkok"
+    }
+  }
+]

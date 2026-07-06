@@ -1,0 +1,40 @@
+[
+  {
+    "id": "bangkok-massage-1",
+    "name": "Health Land (Ekkamai)",
+    "category": "massage",
+    "location": "Ekkamai",
+    "tags": ["连锁", "性价比", "泰式按摩"],
+    "rating": 4.1,
+    "notes": "曼谷最靠谱的连锁按摩店之一，环境干净专业。两小时泰式按摩约600泰铢，性价比很高。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Health+Land+Ekkamai+Bangkok",
+      "phone": "+6623922233"
+    }
+  },
+  {
+    "id": "bangkok-massage-2",
+    "name": "Oasis Spa (Sukhumvit 51)",
+    "category": "massage",
+    "location": "Sukhumvit 51, Watthana",
+    "tags": ["高端SPA", "环境优美", "精油按摩"],
+    "rating": 4.5,
+    "notes": "曼谷顶级SPA体验，兰纳风格庭院环境。招牌Golden Bliss套餐约2500泰铢，含草药压缩和精油按摩。需提前预约。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Oasis+Spa+Sukhumvit+Bangkok",
+      "phone": "+6622711535"
+    }
+  },
+  {
+    "id": "bangkok-massage-3",
+    "name": "Wat Pho Thai Traditional Massage School",
+    "category": "massage",
+    "location": "Wat Pho, Phra Nakhon",
+    "tags": ["传统", "寺庙", "便宜"],
+    "rating": 4.0,
+    "notes": "卧佛寺内的传统泰式按摩学校，由专业学生操作。价格极低（约250泰铢/小时），手法正宗但环境较简陋。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Wat+Pho+Massage+Bangkok"
+    }
+  }
+]

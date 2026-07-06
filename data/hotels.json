@@ -1,0 +1,41 @@
+[
+  {
+    "id": "bangkok-hotel-1",
+    "name": "Mandarin Oriental Bangkok",
+    "category": "hotels",
+    "location": "Charoenkrung Road, Bang Rak",
+    "tags": ["奢华", "河景", "历史经典"],
+    "rating": 4.9,
+    "notes": "曼谷最传奇的酒店，1876年开业。河景房无与伦比，authors' lounge下午茶必体验。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Mandarin+Oriental+Bangkok",
+      "phone": "+6626599000"
+    }
+  },
+  {
+    "id": "bangkok-hotel-2",
+    "name": "The Siam",
+    "category": "hotels",
+    "location": "Riverside, Dusit",
+    "tags": ["精品", "复古", "私人码头"],
+    "rating": 4.7,
+    "notes": "只有39间房的精品酒店，Art Deco风格，有私人码头接送。适合喜欢安静、注重设计感的旅客。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=The+Siam+Bangkok",
+      "phone": "+6622066999"
+    }
+  },
+  {
+    "id": "bangkok-hotel-3",
+    "name": "Hotel Once Bangkok",
+    "category": "hotels",
+    "location": "Charoenkrung Road, Bang Rak",
+    "tags": ["性价比", "设计", "河畔"],
+    "rating": 4.1,
+    "notes": "性价比很高的设计酒店，黑白风格，房间带浴缸。靠近ICONSIAM和河畔夜市。",
+    "links": {
+      "googleMaps": "https://maps.google.com/?q=Hotel+Once+Bangkok",
+      "phone": "+6626882400"
+    }
+  }
+]
