@@ -12,9 +12,11 @@ const Sidebar = {
     const nav = document.getElementById('sidebar-nav');
     if (!nav) return;
 
-    // Determine prefix: from /pages/ subdirectory need ../ to go up one level
+    // All category pages are in the same /pages/ directory.
+    // From root:          use pages/food.html
+    // From within /pages/: use food.html directly
     const isInPages = window.location.pathname.includes('/pages/');
-    const prefix = isInPages ? '../' : '';
+    const prefix = isInPages ? '' : 'pages/';
 
     nav.innerHTML = '';
 
@@ -27,7 +29,7 @@ const Sidebar = {
       if (cat.id === activeCat) {
         a.classList.add('sidebar-nav__link--active');
       }
-      a.href = `${prefix}pages/${cat.id}.html`;
+      a.href = `${prefix}${cat.id}.html`;
 
       const icon = document.createElement('span');
       icon.className = 'sidebar-nav__icon';
